@@ -113,17 +113,20 @@ class AgentTools:
             return self._search(user_request, self.config.movie_search_cutoff_low, 1, k)
 
     def _get_movie_information(self, movie: str, n_results=3) -> Dict[str, Any]:
-        search = tmdb.Search()
-        result = search.movie(query=movie)
         out = []
-        ids = [result["results"][x]["id"] for x in range(n_results)]
-        for id in ids:
-            movie_info = {}
-            movie = tmdb.Movies(id)
-            movie_info["info"] = movie.info()
-            movie_info["credits"] = movie.credits()
-            out.append(movie_info)
-        logger.info("CompletedMovieSearch", movie=movie)
+        try:
+            search = tmdb.Search()
+            result = search.movie(query=movie)
+            ids = [result["results"][x]["id"] for x in range(n_results)]
+            for id in ids:
+                movie_info = {}
+                movie_obj = tmdb.Movies(id)
+                movie_info["info"] = movie_obj.info()
+                movie_info["credits"] = movie_obj.credits()
+                out.append(movie_info)
+            logger.info("CompletedMovieSearch", movie=movie)
+        except IndexError:
+            logger.info("MovieSearchFailed", movie=movie)
         return out
 
     def handle_tool_calls(self, messages: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
