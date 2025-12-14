@@ -6,6 +6,7 @@ import polars as pl
 from sentence_transformers import SentenceTransformer
 from structlog import get_logger
 from dotenv import load_dotenv
+import os
 
 load_dotenv()
 
@@ -102,7 +103,7 @@ def parse_args():
 def main():
     args = parse_args()
     data_dir = args.data_dir
-    db_name = args.db_name
+    db_name = DB_PATH
     logger.info("DataIngestionConfig", data_dir=data_dir, db_name=db_name)
     link_df, movie_df, rating_df, tag_df = load_data(data_dir)
     logger.info("LoadedData")
