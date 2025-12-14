@@ -22,7 +22,8 @@ def test_cinema_expert_flow():
 
     # Create a sample request
     sample_request = {
-        "user_input": "Recommend a good sci-fi movie from the 1980s",
+        "user_input": """What holiday movie should I watch tonight? I love Tim
+        Allen's The Santa Clause"""
     }
 
     expert_request = CinemaExpertRequest(**sample_request)
