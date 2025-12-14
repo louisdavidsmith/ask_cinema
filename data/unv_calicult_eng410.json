@@ -1,0 +1,554 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Montage theory is propounded by ______________.",
+      "options": [
+        "Sergei Eisenstein",
+        "Jean-Louis Baudry",
+        "Laura Mulvey",
+        "Fernando Solanas"
+      ],
+      "answer": "Sergei Eisenstein"
+    },
+    {
+      "id": 2,
+      "question": "__________ is a work written by Sergei Eisenstein.",
+      "options": [
+        "The Film Image",
+        "The Film Sense",
+        "Word and Image",
+        "Narrative Cinema"
+      ],
+      "answer": "The Film Image"
+    },
+    {
+      "id": 3,
+      "question": "Who is the feminist film theorist known for the essay 'Visual Pleasure and Narrative Cinema'?",
+      "options": [
+        "Wimal Dissanayake",
+        "Laura Mulvey",
+        "Louis Spence",
+        "Robert Stam"
+      ],
+      "answer": "Laura Mulvey"
+    },
+    {
+      "id": 4,
+      "question": "____________ is the pleasure involved in looking at other people's bodies as objects.",
+      "options": [
+        "Objectification",
+        "Narcissism",
+        "Scopophilia",
+        "Voyeurism"
+      ],
+      "answer": "Scopophilia"
+    },
+    {
+      "id": 5,
+      "question": "_____________ is self - love, or an extreme focus on the self and one's own desires.",
+      "options": [
+        "Castration anxiety",
+        "Fetishism",
+        "Narcissism",
+        "Scopophilia"
+      ],
+      "answer": "Scopophilia"
+    },
+    {
+      "id": 6,
+      "question": "______________ is a Latin American film movement that started in the 1960-70s which decries neocolonialism, the capitalist system, and the Hollywood model of cinema as mere entertainment to make money.",
+      "options": [
+        "Asian cinema",
+        "Indian cinema",
+        "Swedish cinema",
+        "Third cinema"
+      ],
+      "answer": "Third cinema"
+    },
+    {
+      "id": 7,
+      "question": "The essay 'Ideological Effects of The Basic Cinematographic Apparatus' was published in the year __________.",
+      "options": [
+        "1973",
+        "1974",
+        "1975",
+        "1976"
+      ],
+      "answer": "1974"
+    },
+    {
+      "id": 8,
+      "question": "For Althusser, _____________ is defined as a 'representation of the imaginary relationship of individuals to their real conditions of existence.'",
+      "options": [
+        "Ideology",
+        "Image",
+        "Word",
+        "Apparatus"
+      ],
+      "answer": "Ideology"
+    },
+    {
+      "id": 9,
+      "question": "According to Baudry, the process that stands between 'reality' and the camera is _____________, the breaking down of a narrative into a shot list.",
+      "options": [
+        "Decoupage",
+        "Film stock",
+        "Montage",
+        "Objective reality"
+      ],
+      "answer": "Decoupage"
+    },
+    {
+      "id": 10,
+      "question": "In the essay, 'Colonialism, Racism and Representation: An Introduction', the colonial relation has to do with ___________ nomination rather than with crude economic, racial, cultural, or geographical categories.",
+      "options": [
+        "Political",
+        "Social",
+        "Structural",
+        "Strategic"
+      ],
+      "answer": "Structural"
+    },
+    {
+      "id": 11,
+      "question": "Daniel Defoe glorified colonialism in _____________, a novel whose 'hero' becomes wealthy through the slave trade and through Brazilian sugar mills, and whose first thought, upon seeing human foot prints after years of solitude, is to 'get (him) a servant'.",
+      "options": [
+        "Gulliver's Travels",
+        "Heart of Darkness",
+        "The Tempest",
+        "Robinson Crusoe"
+      ],
+      "answer": "Robinson Crusoe"
+    },
+    {
+      "id": 12,
+      "question": "Robert Sam and Louise Spence wrote the essay ___________________.",
+      "options": [
+        "Colonialism, Racism and Representation: An Introduction",
+        "Visual Pleasure",
+        "Towards a Third Cinema",
+        "Word and Image"
+      ],
+      "answer": "Colonialism, Racism and Representation: An Introduction"
+    },
+    {
+      "id": 13,
+      "question": "____________, the father of Indian Cinema saw cinema as an important mode of stimulating public opinion.",
+      "options": [
+        "Dada Sahab Phalke",
+        "Ashish Nandy",
+        "Amrit Kaur",
+        "Satyajit Ray"
+      ],
+      "answer": "Dada Sahab Phalke"
+    },
+    {
+      "id": 14,
+      "question": "Popular commercial Indian cinema is one of the most maligned and criticised of cinemas and is often referred to as ____________.",
+      "options": [
+        "Hollywood",
+        "Bollywood",
+        "Mollywood",
+        "Tollywood"
+      ],
+      "answer": "Bollywood"
+    },
+    {
+      "id": 15,
+      "question": "Battleship Potemkin was released in ___________.",
+      "options": [
+        "1924",
+        "1925",
+        "1926",
+        "1927"
+      ],
+      "answer": "1925"
+    },
+    {
+      "id": 16,
+      "question": "In Battle Potemkin, ____________ is presented as a noble martyr.",
+      "options": [
+        "Vakulinchuk",
+        "Potemkin",
+        "Lenin",
+        "Bolshevik Leader"
+      ],
+      "answer": "Vakulinchuk"
+    },
+    {
+      "id": 17,
+      "question": "One of the most celebrated scenes in Battleship Potemkin is the massacre of civilians on the Odessa Steps which is also known as ______________.",
+      "options": [
+        "Primorsky or Potemkin Stairs",
+        "Bolshevik Revolution",
+        "Drama on the Quarter - Deck",
+        "Men And Maggots"
+      ],
+      "answer": "Primorsky or Potemkin Stairs"
+    },
+    {
+      "id": 18,
+      "question": "________________ wrote 'Wild Strawberries' while in hospital and managed to delve philosophically into themes such as childhood, dreams, and loneliness.",
+      "options": [
+        "Bergman",
+        "Fleming",
+        "Hitchcock",
+        "Eisenstein"
+      ],
+      "answer": "Bergman"
+    },
+    {
+      "id": 19,
+      "question": "Wild Strawberries was released in the year ________.",
+      "options": [
+        "1956",
+        "1957",
+        "1958",
+        "1959"
+      ],
+      "answer": "1957"
+    },
+    {
+      "id": 20,
+      "question": "Wild strawberries symbolically represent _______________.",
+      "options": [
+        "Loneliness and hopelessness",
+        "Continuity and renewal of life",
+        "Memory",
+        "End of life"
+      ],
+      "answer": "Continuity and renewal of life"
+    },
+    {
+      "id": 21,
+      "question": "___________________, the 1960 horror film directed by Alfred Hitchcock, was considered to be both a classic and first modern horror film opening the viewers of cinema to the 'slasher' genre.",
+      "options": [
+        "Lodger",
+        "Psycho",
+        "Sabotage",
+        "Notorious"
+      ],
+      "answer": "Psycho"
+    },
+    {
+      "id": 22,
+      "question": "Who was the English director popularly known as 'the master of suspense'?",
+      "options": [
+        "Alfred Hitchcock",
+        "Victor Fleming",
+        "Akira Kurosawa",
+        "Christopher Nolan"
+      ],
+      "answer": "Alfred Hitchcock"
+    },
+    {
+      "id": 23,
+      "question": "Which is the narrative device popularized by Hitchcock that is intended only as a trigger to advance the plot?",
+      "options": [
+        "McGuffin",
+        "Mise-en-scene",
+        "In media res",
+        "Narration"
+      ],
+      "answer": "McGuffin"
+    },
+    {
+      "id": 24,
+      "question": "Which is the famous scene from Psycho?",
+      "options": [
+        "Motel scene",
+        "Shower scene",
+        "Chasing scene",
+        "Dining scene"
+      ],
+      "answer": "Shower scene"
+    },
+    {
+      "id": 25,
+      "question": "___________________ is a 1939 American epic historical romance film adapted from the 1936 novel by Margaret Mitchell.",
+      "options": [
+        "Memento",
+        "Rashomon",
+        "Gone with the Wind",
+        "Wild Strawberries"
+      ],
+      "answer": "Gone with the Wind"
+    },
+    {
+      "id": 26,
+      "question": "Gone With the Wind is set in the American South during the ____________ War.",
+      "options": [
+        "I World",
+        "II World",
+        "Civil",
+        "Falklands War"
+      ],
+      "answer": "Civil"
+    },
+    {
+      "id": 27,
+      "question": "___________ is the character in Gone with the Wind.",
+      "options": [
+        "Norman Bates",
+        "Scarlett O' Hara",
+        "Lenin",
+        "Marion"
+      ],
+      "answer": "Scarlett O' Hara"
+    },
+    {
+      "id": 28,
+      "question": "_______________ was the first colour movie to win the Oscar for best picture.",
+      "options": [
+        "Rashomon",
+        "Memento",
+        "Gone with the Wind",
+        "Wild Strawberries"
+      ],
+      "answer": "Gone with the Wind"
+    },
+    {
+      "id": 29,
+      "question": "__________________ was released in 1950 and introduced Japanese filmmaking to the rest of the world.",
+      "options": [
+        "Battleship Potemkin",
+        "Rashomon",
+        "Memento",
+        "Offside"
+      ],
+      "answer": "Rashomon"
+    },
+    {
+      "id": 30,
+      "question": "In Rashomon, ________________ symbolizes man choosing to do what's good.",
+      "options": [
+        "The forest",
+        "The sun",
+        "The baby",
+        "The wood"
+      ],
+      "answer": "The baby"
+    },
+    {
+      "id": 31,
+      "question": "Rashomon's style draws heavily from ___________________.",
+      "options": [
+        "Japanese Noh Theatre",
+        "Epic",
+        "New wave cinema",
+        "Bunraku"
+      ],
+      "answer": "Japanese Noh Theatre"
+    },
+    {
+      "id": 32,
+      "question": "Who is the protagonist of Memento?",
+      "options": [
+        "Burt",
+        "Jimmy Grantz",
+        "Leonard",
+        "Teddy"
+      ],
+      "answer": "Leonard"
+    },
+    {
+      "id": 33,
+      "question": "'I can't remember to forget you.' This dialogue is from which movie?",
+      "options": [
+        "Psycho",
+        "Memento",
+        "Gone with the Wind",
+        "Rashomon"
+      ],
+      "answer": "Memento"
+    },
+    {
+      "id": 34,
+      "question": "The psychological thriller and neo-noir film Memento is directed and written by ____________________ in 2000.",
+      "options": [
+        "Akira Kurosawa",
+        "Christopher Nolan",
+        "Victor Fleming",
+        "Alfred Hitchcock"
+      ],
+      "answer": "Christopher Nolan"
+    },
+    {
+      "id": 35,
+      "question": "Chitrangada: A Crowning Wish is a ___________________winning Bengali film by famous queer director Rituparno Ghosh.",
+      "options": [
+        "National Award",
+        "State Award",
+        "Academy Award",
+        "Phalke Award"
+      ],
+      "answer": "National Award"
+    },
+    {
+      "id": 36,
+      "question": "Chitrangada: A Crowning Wish was released in ___________.",
+      "options": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "answer": "2012"
+    },
+    {
+      "id": 37,
+      "question": "Chitrangada: A Crowning Wish educates the audience about the several difficulties faced by _______________.",
+      "options": [
+        "Women",
+        "LGBTQ",
+        "Senior citizens",
+        "Dalits"
+      ],
+      "answer": "LGBTQ"
+    },
+    {
+      "id": 38,
+      "question": "______________________ won Oscar award for Best Foreign Film in 1949.",
+      "options": [
+        "Bicycle Thieves",
+        "Breathless",
+        "Offside",
+        "Marriage of Maria Braun"
+      ],
+      "answer": "Bicycle Thieves"
+    },
+    {
+      "id": 39,
+      "question": "Bicycle Thieves takes place in _____________.",
+      "options": [
+        "Iran",
+        "Rome",
+        "Greece",
+        "Japan"
+      ],
+      "answer": "Rome"
+    },
+    {
+      "id": 40,
+      "question": "Neorealist films focus on the ___________ in the present day after WW II.",
+      "options": [
+        "High class",
+        "Middle class",
+        "Lower class",
+        "None of these"
+      ],
+      "answer": "Lower class"
+    },
+    {
+      "id": 41,
+      "question": "Breathless is directed by ______________.",
+      "options": [
+        "Bert Haanstra",
+        "Vittorio de Sica",
+        "Werner Fassbinder",
+        "Jean Luc-Godard"
+      ],
+      "answer": "Jean Luc-Godard"
+    },
+    {
+      "id": 42,
+      "question": "Breathless marked the beginning of the ____________________ movement.",
+      "options": [
+        "Italian Neorealism",
+        "French New Wave",
+        "New German Cinema",
+        "Third Cinema"
+      ],
+      "answer": "French New Wave"
+    },
+    {
+      "id": 43,
+      "question": "In Breathless, the poster 'Live Dangerously Until the End!' represents _________________________.",
+      "options": [
+        "Michael's general philosophy of life",
+        "Michael's self interest",
+        "Michael's looser grasp of reality and consequence",
+        "None of these"
+      ],
+      "answer": "Michael's general philosophy of life"
+    },
+    {
+      "id": 44,
+      "question": "______________________ uses Marias's life to map the post-war and contemporary Germany in film The Marriage of Maria Braun, and link her marriage and death with Germany's political and economic.",
+      "options": [
+        "Rainer Wener Fassbinder",
+        "Jean Luc-Godard",
+        "Vittorio de Sica",
+        "Jafar Panahi"
+      ],
+      "answer": "Rainer Wener Fassbinder"
+    },
+    {
+      "id": 45,
+      "question": "In The Marriage of Maria Braun, ______________ is a character whose gender identity is fluid.",
+      "options": [
+        "Maria",
+        "Hedwig",
+        "Braun",
+        "Bill"
+      ],
+      "answer": "Hedwig"
+    },
+    {
+      "id": 46,
+      "question": "____________ is about a group of Iranian girls who attempts to enter Tehran's Azadi Stadium dressed as boys in order to watch a big football match but some get caught and arrested.",
+      "options": [
+        "Memento",
+        "Offside",
+        "Breathless",
+        "Bicycle Thieves"
+      ],
+      "answer": "Offside"
+    },
+    {
+      "id": 47,
+      "question": "Offside is directed by ____________________.",
+      "options": [
+        "Jafar Panahi",
+        "Vittorio de Sica",
+        "Rainer Wener Fassbinder",
+        "Jean Godard"
+      ],
+      "answer": "Jafar Panahi"
+    },
+    {
+      "id": 48,
+      "question": "With Glass, _______________ became in 1959 the first Oscar winner of The Netherlands.",
+      "options": [
+        "Bert Haanstra",
+        "Jafar Panahi",
+        "Jean Godard",
+        "Rainer Wener"
+      ],
+      "answer": "Bert Haanstra"
+    },
+    {
+      "id": 49,
+      "question": "Bert Haanstra's _______________ is at once a passionate celebration of human labour and craftsmanship and a biting critique of the mechanistic mass-production of objects.",
+      "options": [
+        "Modern Times",
+        "Glass",
+        "Fanfare",
+        "Zoo"
+      ],
+      "answer": "Glass"
+    },
+    {
+      "id": 50,
+      "question": "Bert Haanstra's Glass was released in __________.",
+      "options": [
+        "1956",
+        "1957",
+        "1958",
+        "1959"
+      ],
+      "answer": "1958"
+    }
+  ]
+}
