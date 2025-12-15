@@ -33,7 +33,6 @@ async def cinema_expert_endpoint(request: Request):
 
         response_dict = response.model_dump()
 
-        # Convert UUID fields to strings
         for key, value in response_dict.items():
             if isinstance(value, UUID):
                 response_dict[key] = str(value)
