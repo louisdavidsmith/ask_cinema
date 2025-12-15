@@ -71,8 +71,7 @@ Send a request to the agent endpoint:
 curl -X POST http://localhost:8000/cinema-expert \
   -H "Content-Type: application/json" \
   -d '{
-    "query": "I like films by Tarkovsky and Bergman. What should I watch next?",
-    "session_id": "demo-session-1"
+    "user_input": "I like films by Tarkovsky and Bergman. What should I watch next? My favorite Bergman film is The Seventh Seal"
   }'
 ```
 
