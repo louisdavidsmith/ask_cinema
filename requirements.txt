@@ -5,6 +5,7 @@ pydantic>=2.0.0
 python-dotenv
 sentence-transformers
 starlette
+streamlit
 structlog
 tmdbsimple
 uvicorn
