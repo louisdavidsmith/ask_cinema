@@ -17,3 +17,6 @@ run-endpoint: install
 
 run-streamlit: install
 	.venv/bin/streamlit run chat.py
+
+assess: install
+	.venv/bin/python assess_performance.py
