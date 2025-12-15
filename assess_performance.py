@@ -31,9 +31,7 @@ def load_calicut_test(path: str) -> Dict[str, Any]:
         return json.load(f)
 
 
-def run_domain_knowledge_test(
-    expert: CinemaExpert, test: Dict[str, Any]
-) -> float:
+def run_domain_knowledge_test(expert: CinemaExpert, test: Dict[str, Any]) -> float:
     n_correct = 0
 
     for question in tqdm(test["questions"], desc="Domain Knowledge Test"):
@@ -111,13 +109,10 @@ def run_embedding_recommendation_test(
         user_embeddings.append(expert.tools.model.encode(user_prompt))
 
         with duckdb.connect(database_path) as conn:
-            emb = (
-                conn.execute(
-                    "SELECT embedding FROM movie WHERE movieId = ?",
-                    [user["holdout_movie_id"]],
-                )
-                .fetchone()[0]
-            )
+            emb = conn.execute(
+                "SELECT embedding FROM movie WHERE movieId = ?",
+                [user["holdout_movie_id"]],
+            ).fetchone()[0]
 
         holdout_embeddings.append(np.array(emb))
         holdout_ratings.append(user["holdout_rating"])
@@ -135,9 +130,7 @@ def run_embedding_recommendation_test(
     }
 
 
-def run_taste_classification_test(
-    expert: CinemaExpert, users: pl.DataFrame
-) -> float:
+def run_taste_classification_test(expert: CinemaExpert, users: pl.DataFrame) -> float:
     n_sampled = 0
     n_correct = 0
 
@@ -189,9 +182,7 @@ def main():
         users = sample_users(args.n_users, args.db_path)
 
     if args.recommendation_test or args.all:
-        rec_results = run_embedding_recommendation_test(
-            expert, users, args.db_path
-        )
+        rec_results = run_embedding_recommendation_test(expert, users, args.db_path)
         results["embedding_recommendation"] = rec_results
         logger.info("RecommendationEvalComplete", **rec_results)
 
@@ -208,4 +199,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
